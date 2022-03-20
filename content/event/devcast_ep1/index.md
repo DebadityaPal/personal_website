@@ -6,7 +6,7 @@ event_url: ""
 
 location: Online
 
-summary: "An introductory session for the freshers of IIIT Gwalior  aimed at helping them understand the various complexities of computer programming."
+summary: "An introductory session for the freshers of IIIT Gwalior aimed towards helping you understand the various complexities of computer programming."
 abstract: "An introductory session for the freshers of IIIT Gwalior  aimed at helping them understand the various complexities of computer programming. Additionally, we presented various roadmaps for different areas of specialization in the vast field of computer science."
 
 # Talk start and end times.
