@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links: ""
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

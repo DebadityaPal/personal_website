@@ -46,14 +46,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ""
-url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/document/9417888"
+url_code: "https://github.com/DebadityaPal/RoBERTa-NL2SQL"
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1rQSOpK3mm2FYhwl1pThADCXzFIPCOICBfspEMWfaV8M/edit?usp=sharing"
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/k867X3Qv06s"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
