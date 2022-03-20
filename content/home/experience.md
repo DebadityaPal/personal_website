@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Student Software Developer
+    company: Google Summer of Code 2022 (Activeloop)
+    company_url: "www.activeloop.ai"
+    company_logo: GSoC_logo
+    location: Remote
+    date_start: "2021-06-08"
+    date_end: "2021-08-26"
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Developed an Interactive Onboarding Environment for Activeloop
+        with a REPL based Coding Tutorial Engine using Python. User
+        code input checked dynamically at runtime using ASTs.
+
+  - title: Co-Founder
+    company: CareYear Edutainment
+    company_url: ""
+    company_logo:
+    location: Kolkata, India
+    date_start: "2019-03-06"
+    date_end: "2021-01-15"
+    description: |2-
+        Deployed Adaptive Learning using Bayesian Knowledge Tracing
+        and Exploratory Learning through an Interactive Animation Engine.
 
 design:
-  columns: '2'
+  columns: "2"
 ---
