@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: ""
+    date_end: ""
+    date_start: "2021-12-15"
+    description: ""
+    organization: ETS
+    organization_url: https://www.ets.org/gre
+    title: "GRE Score: 334/340"
+    url: ""
   - certificate_url: https://drive.google.com/file/d/1C5m-WryD8KS01TMOJKpQ-lG6AUFh0zZb/view?usp=sharing
     date_end: "2021-08-26"
     date_start: "2021-06-08"
