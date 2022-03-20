@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Student Software Developer
-    company: Google Summer of Code 2022 (Activeloop)
+    company: Google Summer of Code 2022 (Activeloop @PSF)
     company_url: "www.activeloop.ai"
     company_logo: GSoC_logo
     location: Remote

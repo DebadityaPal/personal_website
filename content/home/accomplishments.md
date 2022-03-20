@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: "Accomplish&shy;ments"
 subtitle:
 
 # Date format
@@ -23,31 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  - certificate_url: https://drive.google.com/file/d/1C5m-WryD8KS01TMOJKpQ-lG6AUFh0zZb/view?usp=sharing
+    date_end: "2021-08-26"
+    date_start: "2021-06-08"
+    description: ""
+    organization: Google
+    organization_url: https://summerofcode.withgoogle.com/
+    title: Google Summer of Code
+    url: ""
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/JXLGRVN4M38L
+    date_end: ""
+    date_start: "2020-08-16"
+    description: ""
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specialization
+    url: ""
 
 design:
-  columns: '2' 
+  columns: "2"
 ---
