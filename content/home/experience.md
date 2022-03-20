@@ -25,7 +25,7 @@ experience:
   - title: Student Software Developer
     company: Google Summer of Code 2022 (Activeloop @PSF)
     company_url: "www.activeloop.ai"
-    company_logo: GSoC_logo
+    company_logo: google
     location: Remote
     date_start: "2021-06-08"
     date_end: "2021-08-26"
