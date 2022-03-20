@@ -1,77 +1,40 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Debaditya Pal
+role: Undergraduate Student of Computer Science
+avatar_filename: avatar.jpg
+bio: My research interests include Natural Language Processing and Semantic Parsing
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Natural Language Processing
+  - Semantic Parsing
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DebadityaPal
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=r0ZYq0EAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/debadityapal
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/DebadityaPal
+organizations:
+  - name: Indian Institute of Information Technology, Gwalior
+    url: https://www.iiitm.ac.in/index.php/en/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: BTech in Computer Science and Engineering
+      institution: Indian Institute of Information Technology, Gwalior
+      year: 2023
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+I am an undergraduate student at the [Indian Institute of Information Technology, Gwalior](https://www.iiitm.ac.in/index.php/en/) majoring in Computer Science and Engineering. Being a connoiseur of sci-fi movies, I always found Artificial Intelligence highly interesting. My research interests include Natural Language Processing, Semantic Parsing and Information Retrieval.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Currently I am working on detecting [Patronizing and Condescending Language (PCL)](https://sites.google.com/view/pcl-detection-semeval2022/) in paragraphs of text and designign a model to reduce the amount of PCL whilst keeping the informative content of a paragraph intact. This summer (2022) I will be working with [Dr. David R Traum](https://viterbi.usc.edu/directory/faculty/Traum/David) to design a new dialogue management architecture. Previously, I have tackled the [NL2SQL](https://ieeexplore.ieee.org/document/9417888) semantic parsing task with a couple of my colleagues and also worked on OCR enabled Plagiarism Checkers. I have also worked with [Dr. Debanjan Sadhya](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Devanjan) and [Prof. Shashikala Tapaswi](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Shashikala) to design OCR based Plagiarism Detectors.
