@@ -10,10 +10,10 @@ authors:
   - Harsh Sharma
 
 # Author notes (optional)
-author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
-  - "Equal contribution"
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
+#   - "Equal contribution"
 
 date: "2022-08-29T00:00:00Z"
 doi: "10.48550/ARXIV.2208.13595"

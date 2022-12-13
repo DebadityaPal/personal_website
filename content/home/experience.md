@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Research Intern
+    company: University of Southern California
+    company_url: "https://www.usc.edu/"
+    company_logo: usc
+    location: Los Angeles, USA
+    date_start: "2022-05-17"
+    date_end: "2022-07-15"
+    description: |2-
+        Worked on Retrieval Based Question Answering.
+        Compared Statistical models with Transformer based 
+        Encoders on a morderate size corpus. Established dominance 
+        of statistical models.
+
   - title: Student Software Developer
     company: Google Summer of Code 2022 (Activeloop @PSF)
     company_url: "www.activeloop.ai"
