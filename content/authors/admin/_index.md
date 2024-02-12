@@ -37,7 +37,7 @@ education:
   courses:
     - course: MS in Computer Science
       institution: University of Southern California
-      year: 2024
+      year: 2025
     - course: BTech in Computer Science and Engineering
       institution: Indian Institute of Information Technology, Gwalior
       year: 2023
