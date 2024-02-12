@@ -27,10 +27,17 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/DebadityaPal
 organizations:
+  - name: Institute for Creative Technologies
+    url: https://ict.usc.edu/
+  - name: University of Southern California
+    url: https://www.usc.edu/
   - name: Indian Institute of Information Technology, Gwalior
     url: https://www.iiitm.ac.in/index.php/en/
 education:
   courses:
+    - course: MS in Computer Science
+      institution: University of Southern California
+      year: 2024
     - course: BTech in Computer Science and Engineering
       institution: Indian Institute of Information Technology, Gwalior
       year: 2023
