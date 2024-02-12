@@ -1,10 +1,12 @@
 ---
 title: Debaditya Pal
-role: Undergraduate Student of Computer Science
+role: Graduate Student majoring in Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include Natural Language Processing and Information Retrieval
+bio: My research interests include Natural Language Processing, Dialog Systems and Information Retrieval among other things.
 interests:
   - Natural Language Processing
+  - Dialog Systems
+  - Generative AI
   - Semantic Parsing
   - Text Classification
   - Information Retrieval
@@ -37,6 +39,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am an undergraduate student at the [Indian Institute of Information Technology, Gwalior](https://www.iiitm.ac.in/index.php/en/) majoring in Computer Science and Engineering. Being a connoiseur of sci-fi movies, I always found Artificial Intelligence highly interesting. My research interests include Natural Language Processing, Semantic Parsing and Information Retrieval.
+I am a graduate student at the [University of Southern California](https://www.usc.edu/) majoring in Computer Science. Being a connoiseur of sci-fi movies, I always found Artificial Intelligence highly interesting. My research interests include Natural Language Processing, Dialog Systems and Information Retrieval.
 
-Currently I am working on detecting [Patronizing and Condescending Language (PCL)](https://sites.google.com/view/pcl-detection-semeval2022/) in paragraphs of text and designign a model to reduce the amount of PCL whilst keeping the informative content of a paragraph intact. In the summer of 2022, I worked with [Dr. David R Traum](https://viterbi.usc.edu/directory/faculty/Traum/David) to design a new dialogue management architecture. Previously, I have tackled the [NL2SQL](https://ieeexplore.ieee.org/document/9417888) semantic parsing task with a couple of my colleagues and also worked on OCR enabled Plagiarism Checkers. I have also worked with [Dr. Debanjan Sadhya](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Devanjan) and [Prof. Shashikala Tapaswi](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Shashikala) to design OCR based Plagiarism Detectors.
+Currently I am working on creating Multilingual Open-Domain Negotiation Agents. I am also a research assistant at the USC Institute for Creative Technologies, under the supervision of [Dr. David R Traum](https://viterbi.usc.edu/directory/faculty/Traum/David), where I work on extracting context rich embeddings for dialog systems. In the summer of 2022, I worked with the same lab to design a new dialogue management architecture. Previously, I have tackled the [NL2SQL](https://ieeexplore.ieee.org/document/9417888) semantic parsing task with a couple of my colleagues and also worked on OCR enabled Plagiarism Checkers. I have also worked with [Dr. Debanjan Sadhya](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Devanjan) and [Prof. Shashikala Tapaswi](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Shashikala) to design OCR based Plagiarism Detectors.
