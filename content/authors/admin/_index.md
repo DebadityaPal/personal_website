@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/DebadityaPal
 organizations:
-  - name: Institute for Creative Technologies
+  - name: Institute for Creative Technologies (USC)
     url: https://ict.usc.edu/
   - name: University of Southern California
     url: https://www.usc.edu/
